@@ -1,1 +1,5 @@
 my name is Pavel 
+
+1. Paste a link to your github repository below: https://github.com/pavelnosarev/hello-world
+2. What questions do you have about what we've learned so far using git and github?: How much will we use github in the real world ie worplace etc.?
+
